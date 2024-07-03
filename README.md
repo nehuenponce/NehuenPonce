@@ -1,5 +1,5 @@
 👨‍💻 ¡Hola, mundo! Bienvenidos a mi rincón de código 🚀
-¡Saludos! Soy Nehuen Ponce o como me llamo en las redes "nehuendev", un entusiasta del software y creador incansable. 💡 Aquí en GitHub, me aventuro en el vasto universo de la programación, explorando ideas locas 💭 y convirtiéndolas en proyectos tangibles.
+¡Saludos! Soy Nehuen Ponce, un entusiasta del software y creador incansable. 💡 Aquí en GitHub, me aventuro en el vasto universo de la programación, explorando ideas locas 💭 y convirtiéndolas en proyectos tangibles.
 
 🔍 ¿Qué encontrarás aquí? Desde scripts útiles hasta aplicaciones ingeniosas, cada repositorio es un vistazo a mi viaje de aprendizaje y crecimiento en el mundo del desarrollo. 💻
 
